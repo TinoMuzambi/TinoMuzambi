@@ -12,7 +12,7 @@
 ### Connect with me:
 
 [<img align="left" alt="TinoMuzambi.com" width="22px" src="https://image.flaticon.com/icons/png/512/814/814513.png" />][website]
-[<img align="left" alt="TinoMuzambi | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="TinoMuzambi | YouTube" width="22px" src="https://image.flaticon.com/icons/png/512/1384/1384060.png" />][youtube]
 [<img align="left" alt="TinoMuzambi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="TinoMuzambi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="TinoMuzambi | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
