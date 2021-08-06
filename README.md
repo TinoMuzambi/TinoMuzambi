@@ -74,7 +74,7 @@
 
   <br />
 
-[![TinoMuzambi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TinoMuzambi)](https://github.com/anuraghazra/github-readme-stats)
+[![TinoMuzambi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tinomuzambi)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
