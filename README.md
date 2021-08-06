@@ -54,6 +54,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
+<img align="left" alt="TinoMuzambi's GitHub Stats" src="https://github-readme-stats.tinomuzambi.vercel.app/api?username=TinoMuzambi&show_icons=true&hide_border=true" />
 
 
 </details>
