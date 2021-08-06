@@ -41,27 +41,29 @@
 <br />
 <br />
 
----
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
   
 
-<!--END_SECTION:activity-->
-
 </details>
 
---
 
 <details>
   <summary>:zap: GitHub Stats</summary>
+
+  <br />
 
 [![Tino's GitHub stats](https://github-readme-stats.vercel.app/api?username=TinoMuzambi&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 
+
+
 <details>
   <summary>:zap: Top Languages</summary>
+
+  <br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TinoMuzambi)](https://github.com/anuraghazra/github-readme-stats)
 
