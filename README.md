@@ -59,13 +59,23 @@
 </details>
 
 
-
 <details>
   <summary>:zap: Top Languages</summary>
 
   <br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TinoMuzambi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+</details>
+
+<details>
+  <summary>:zap: Wakatime Stats</summary>
+
+  <br />
+
+[![TinoMuzambi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TinoMuzambi)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 </details>
