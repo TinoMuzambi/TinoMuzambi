@@ -85,4 +85,13 @@
 [youtube]: https://www.youtube.com/channel/UC4V3g54INQEizr8U7QTxCbg
 [instagram]: https://instagram.com/tinomuzambi
 [linkedin]: https://linkedin.com/in/tinomuzambi
-[]
+[typescript]: https://projects.tinomuzambi.com/tags/typescript
+[javascript]: https://projects.tinomuzambi.com/tags/javascript
+[react]: https://projects.tinomuzambi.com/tags/react
+[next.js]: https://projects.tinomuzambi.com/tags/next.js
+[sass]: https://projects.tinomuzambi.com/tags/sass
+[mongodb]: https://projects.tinomuzambi.com/tags/mongodb
+[python]: https://projects.tinomuzambi.com/tags/python
+[html]: https://projects.tinomuzambi.com/tags/html
+[node.js]: https://projects.tinomuzambi.com/tags/node.js
+[java]: https://projects.tinomuzambi.com/tags/java
