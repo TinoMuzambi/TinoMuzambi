@@ -11,7 +11,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="TinoMuzambi.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="TinoMuzambi.com" width="22px" src="https://img.icons8.com/office/80/000000/globe.png" />][website]
 [<img align="left" alt="TinoMuzambi | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="TinoMuzambi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="TinoMuzambi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -84,4 +84,5 @@
 [twitter]: https://twitter.com/TinoMuzambi
 [youtube]: https://www.youtube.com/channel/UC4V3g54INQEizr8U7QTxCbg
 [instagram]: https://instagram.com/tinomuzambi
-[linkedin]: https://linkedin.com/in/tinomuzambi 
+[linkedin]: https://linkedin.com/in/tinomuzambi
+[]
