@@ -51,12 +51,12 @@
 
 </details>
 
+--
+
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-[![Tino's GitHub stats](https://github-readme-stats.vercel.app/api?username=TinoMuzambi?count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-
+[![Tino's GitHub stats](https://github-readme-stats.vercel.app/api?username=TinoMuzambi&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 
