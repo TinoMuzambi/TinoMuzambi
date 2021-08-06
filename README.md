@@ -60,6 +60,14 @@
 
 </details>
 
+<details>
+  <summary>:zap: Top Languages</summary>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TinoMuzambi)](https://github.com/anuraghazra/github-readme-stats)
+
+
+</details>
+
 [website]: https://tinomuzambi.com
 [twitter]: https://twitter.com/TinoMuzambi
 [youtube]: https://www.youtube.com/channel/UC4V3g54INQEizr8U7QTxCbg
