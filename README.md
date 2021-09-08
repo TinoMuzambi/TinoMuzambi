@@ -5,7 +5,7 @@
 
 ## I'm a Full-Stack Web Developer
 
-- 🌱 I’m currently learning TypeScript, Testing & CSS.
+- 🌱 I’m currently learning TypeScript, Testing & CSS (always learning CSS).
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love music and cars.
 
