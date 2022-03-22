@@ -11,11 +11,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="TinoMuzambi.com" width="22px" src="https://image.flaticon.com/icons/png/512/814/814513.png" />][website]
-[<img align="left" alt="TinoMuzambi | YouTube" width="22px" src="https://image.flaticon.com/icons/png/512/1384/1384060.png" />][youtube]
-[<img align="left" alt="TinoMuzambi | Twitter" width="22px" src="https://image.flaticon.com/icons/png/512/733/733579.png" />][twitter]
-[<img align="left" alt="TinoMuzambi | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
-[<img align="left" alt="TinoMuzambi | Instagram" width="22px" src="https://image.flaticon.com/icons/png/512/2111/2111463.png" />][instagram]
+[<img align="left" alt="TinoMuzambi.com" width="22px" src="https://a.storyblok.com/f/114267/512x512/055195db33/web.png" />][website]
+[<img align="left" alt="TinoMuzambi | YouTube" width="22px" src="https://a.storyblok.com/f/114267/512x512/8d2dcfd3c8/youtube.png" />][youtube]
+[<img align="left" alt="TinoMuzambi | Twitter" width="22px" src="https://a.storyblok.com/f/114267/512x512/97c6b1d305/twitter.png" />][twitter]
+[<img align="left" alt="TinoMuzambi | LinkedIn" width="22px" src="https://a.storyblok.com/f/114267/512x512/fe56eadc8c/linkedin.png" />][linkedin]
+[<img align="left" alt="TinoMuzambi | Instagram" width="22px" src="https://a.storyblok.com/f/114267/512x512/c7d2921bd0/instagram.png" />][instagram]
 
 <br />
 
@@ -36,7 +36,6 @@
 <br />
 <br />
 
-
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
   
@@ -45,7 +44,6 @@
   <!--END_SECTION:activity-->
 
 </details>
-
 
 <details>
   <summary>:zap: GitHub Stats</summary>
@@ -56,14 +54,12 @@
 
 </details>
 
-
 <details>
   <summary>:zap: Top Languages</summary>
 
   <br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TinoMuzambi&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
 
 </details>
 
@@ -73,8 +69,6 @@
   <br />
 
 [![TinoMuzambi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tinomuzambi&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
 
 </details>
 
