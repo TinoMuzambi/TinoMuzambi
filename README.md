@@ -5,8 +5,8 @@
 
 ## I'm a Full-Stack Web Developer
 
-- 🌱 I’m currently learning TypeScript, Testing & CSS.
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🌱 I’m currently learning Testing & CSS (always learning CSS).
+- 🥅 2022 Goals: Contribute more to Open Source projects. Learn C#.
 - ⚡ Fun fact: I love music and cars.
 
 ### Connect with me:
@@ -36,14 +36,14 @@
 <br />
 <br />
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
+<!-- <details>
+  <summary>:zap: Recent GitHub Activity</summary> -->
+
   <!--START_SECTION:activity-->
 
   <!--END_SECTION:activity-->
 
-</details>
+<!-- </details> -->
 
 <details>
   <summary>:zap: GitHub Stats</summary>
