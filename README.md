@@ -6,8 +6,8 @@
 
 ## I'm a Full-Stack Web Developer
 
-- 🌱 I’m currently learning Testing & CSS (always learning CSS).
-- 🥅 2022 Goals: Contribute more to Open Source projects. Learn C#.
+- 🌱 I’m currently learning tRPC, monorepos & CSS (always learning CSS).
+- 🥅 2023 Goals: Contribute more to Open Source projects. Create my own design system.
 - ⚡ Fun fact: I love music and cars.
 
 ### Connect with me:
