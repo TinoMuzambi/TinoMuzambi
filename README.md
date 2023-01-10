@@ -2,6 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=tinomuzambi.com&style=for-the-badge&url=https%3A%2F%2Ftinomuzambi.com)](https://tinomuzambi.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/TinoMuzambi?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FTinoMuzambi&screen_name=TinoMuzambi)
+[![wakatime](https://wakatime.com/badge/user/6ff8627f-cb7f-4d1c-a080-4336f0a82762.svg?style=for-the-badge)](https://wakatime.com/@6ff8627f-cb7f-4d1c-a080-4336f0a82762)
 
 ## I'm a Full-Stack Web Developer
 
