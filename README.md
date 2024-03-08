@@ -49,7 +49,7 @@
 
 <!-- </details> -->
 
-<details>
+<!--details>
   <summary>:zap: GitHub Stats</summary>
 
   <br />
@@ -65,7 +65,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TinoMuzambi&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-</details>
+</details>-->
 
 <details>
   <summary>:zap: Wakatime Stats</summary>
