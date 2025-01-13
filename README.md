@@ -6,8 +6,8 @@
 
 ## I'm a Full-Stack Web Developer
 
-- 🌱 I’m currently learning tRPC, monorepos & CSS (always learning CSS).
-- 🥅 2024 Goals: Contribute more to Open Source projects. Create my own design system.
+- 🌱 I’m currently learning Rust, Postgres & CSS (always learning CSS).
+- 🥅 2025 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love music and cars.
 
 ### Connect with me:
